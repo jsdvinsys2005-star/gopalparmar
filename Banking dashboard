@@ -1,0 +1,50 @@
+<DOCTYPE html>
+<html>
+<head>
+
+<title> Banking Dashboard</title>
+
+<style>
+h1{
+	background: ORANGE;
+	text-align:center;
+	font-family:;
+	color:BLACK;
+	padding:50px;
+}
+h2{
+	background:GREEN ;
+	text-align:left;
+	font-family:ARIAL BLACK;
+	color:white;
+}
+p{
+	text-align:left;
+	font-family:BADONI MT BLACK;
+}
+button{
+	background:BLACK;
+	text-align:left;
+	font-family:BADONI MT BLACK;
+	color:white;
+	border:20px;
+}
+</style>
+</head> 
+
+<body>
+        <h1>BANKING DASHBOARD</h1>
+        <h2>Account balance</h2>
+	<p>Account balance : $65189</p>
+        <h2>transaction</h2>
+	<button>deposite</button>
+	<button>withdraw</button>
+        <h2>Transfer Money UI</h2>
+	<input type="text" placeholder="account number">
+	<input type="number" placeholder="Amount">
+	<button>transfer</button>
+        <h2>profile</h2>
+	<p>Name:-GOPAL PARMAR</p>
+	<p>Account types:-Bussines Account</p>
+</body>
+</html>
